@@ -12,4 +12,8 @@ node app crear -d "descripcion tarea" -c true
 
 Usa las siguientes dependencias de paquetes npm : yargs, colors.
 
+````
+npm install
+````
+
 Para mas información usa --help dentro de la consola de comandos.
